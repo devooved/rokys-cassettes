@@ -1,22 +1,130 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
 <head>
-
     <meta charset="UTF-8">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
 
-    <title>Album Randomizer</title>
+    <meta
+        name="description"
+        content="A random collection of albums, compilations and musical memories."
+    >
 
+    <title>album randomizer</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <h1>Roky's Cassettes</h1>
+    <!-- HOME -->
 
-    <p>Coming soon.</p>
+    <main id="home-screen" class="screen home">
+
+        <div class="language">
+            <button id="english-button" type="button">EN</button>
+            <button id="greek-button" type="button">ΕΛ</button>
+        </div>
+
+        <div class="home-content">
+
+            <h1 class="home-title">
+                Roky's Cassettes
+            </h1>
+
+            <p id="home-text" class="home-text">
+                Roky was a photographer who lived in Dikaia (Greece).<br><br>
+                During an artistic residence in the village, I had access to his collection of cassete tapes. I photographed them to keep his music archive alive.<br><br>
+                I created this site so ypi can get a random recorndation from Roky.
+            </p>
+
+            <button
+                id="discover-button"
+                class="discover-button"
+                type="button"
+            >
+                DISCOVER ROKY'S RECOMMENDATION
+            </button>
+
+        </div>
+
+    </main>
+
+
+    <!-- ALBUM -->
+
+    <main id="album-screen" class="screen album-screen hidden">
+
+        <div class="album-number" id="album-number">
+            001
+        </div>
+
+        <img
+            id="album-photo"
+            class="album-photo"
+            src="images/001.webp"
+            alt=""
+        >
+
+        <div class="album-info">
+
+            <p
+                id="album-artist"
+                class="album-artist"
+            >
+                Artist
+            </p>
+
+            <p
+                id="album-title"
+                class="album-title"
+            >
+                Album
+            </p>
+
+        </div>
+
+        <div
+            id="album-links"
+            class="album-links"
+        >
+
+            <a
+                id="youtube-link"
+                href="#"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                YOUTUBE
+            </a>
+
+            <a
+                id="spotify-link"
+                href="#"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                SPOTIFY
+            </a>
+
+        </div>
+
+        <button
+            id="discover-more-button"
+            class="discover-more"
+            type="button"
+        >
+            DISCOVER MORE
+        </button>
+
+    </main>
+
+
+    <script src="app.js"></script>
 
 </body>
 
