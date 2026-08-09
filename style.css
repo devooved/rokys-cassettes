@@ -52,6 +52,7 @@ button {
 
 .home-content {
     width: min(680px, 100%);
+    padding-top: 60px;
 }
 
 .home-title {
@@ -168,7 +169,12 @@ button {
     .screen {
         padding: 20px;
     }
+}
 
+    .home-content {
+        padding-top: 70px;
+
+    }
     .language {
         top: 20px;
         right: 20px;
