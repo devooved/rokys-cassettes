@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+:root {
+    --background: #f4f1e9;
+    --text: #171717;
+    --border: #171717;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+}
+
+body {
+    background: var(--background);
+    color: var(--text);
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 16px;
+}
+
+button,
+a {
+    font: inherit;
+    color: inherit;
+}
+
+button {
+    background: none;
+    border: 0;
+    padding: 0;
+}
+
+.screen {
+    min-height: 100vh;
+    min-height: 100svh;
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+}
+
+.home {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.home-content {
+    width: min(680px, 100%);
+}
+
+.home-title {
+    margin: 0 0 48px;
+    font-size: clamp(24px, 5vw, 42px);
+    font-weight: normal;
+    letter-spacing: 0.04em;
+}
+
+.home-text {
+    margin: 0 auto 48px;
+    max-width: 520px;
+    font-size: clamp(15px, 2vw, 18px);
+    line-height: 1.8;
+}
+
+.language {
+    position: absolute;
+    top: 24px;
+    right: 24px;
+    font-size: 13px;
+}
+
+.language button {
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+.language button + button {
+    margin-left: 10px;
+}
+
+.discover-button {
+    display: inline-block;
+    border: 1px solid var(--border);
+    padding: 14px 28px;
+    cursor: pointer;
+    transition: background 180ms ease, color 180ms ease;
+}
+
+.discover-button:hover {
+    background: var(--text);
+    color: var(--background);
+}
+
+.album-screen {
+    align-items: center;
+}
+
+.album-number {
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 28px;
+}
+
+.album-photo {
+    display: block;
+    width: min(70vw, 520px);
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+}
+
+.album-info {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.album-artist,
+.album-title {
+    margin: 0;
+    font-weight: normal;
+}
+
+.album-artist {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.album-title {
+    font-size: 24px;
+}
+
+.album-links {
+    margin-top: 28px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.album-links a {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    font-size: 14px;
+}
+
+.discover-more {
+    margin-top: auto;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+
+.hidden {
+    display: none !important;
+}
+
+@media (max-width: 600px) {
+
+    .screen {
+        padding: 20px;
+    }
+
+    .language {
+        top: 20px;
+        right: 20px;
+    }
+
+    .home-title {
+        margin-bottom: 38px;
+    }
+
+    .home-text {
+        margin-bottom: 38px;
+        line-height: 1.7;
+    }
+
+    .album-number {
+        margin-bottom: 20px;
+    }
+
+    .album-photo {
+        width: min(88vw, 500px);
+    }
+
+    .album-info {
+        margin-top: 24px;
+    }
+
+    .album-artist {
+        font-size: 16px;
+    }
+
+    .album-title {
+        font-size: 21px;
+    }
+
+    .album-links {
+        margin-top: 22px;
+    }
+}
