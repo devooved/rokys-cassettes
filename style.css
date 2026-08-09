@@ -52,7 +52,7 @@ button {
 
 .home-content {
     width: min(680px, 100%);
-    padding-top: 60px;
+    padding-top: 40px;
 }
 
 .home-title {
@@ -73,7 +73,7 @@ button {
     width: 100%;
     text-align: right;
     font-size: 13px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .language button {
