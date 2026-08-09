@@ -48,11 +48,13 @@ button {
     justify-content: center;
     align-items: center;
     text-align: center;
+    padding-top: 0;
+    padding-bottom: 8vh;
 }
 
 .home-content {
     width: min(680px, 100%);
-    padding-top: 40px;
+    padding-top: 60px;
 }
 
 .home-title {
