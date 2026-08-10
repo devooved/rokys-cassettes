@@ -173,14 +173,14 @@ button {
 }
 
     .home-content {
-        margin-top: 10vh;
+        margin-top: 2vh;
 
     }
     .language {
         width: 100%;
         text-align: right;
         font-size: 13px;
-        margin-bottom: 5px;
+        margin-bottom: 20px;
     }
 
     .home-title {
