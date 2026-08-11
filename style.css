@@ -171,18 +171,19 @@ button {
     .screen {
         padding: 20px;
     }
-}
 
     .home-content {
         margin-top: 12vh;
-        
+    }
+
     .language {
         top: 20px;
         right: 20px;
+    }
 
-}
     .home-title {
         margin-bottom: 38px;
+        font-size: clamp(24px, 8vw, 34px);
     }
 
     .home-text {
