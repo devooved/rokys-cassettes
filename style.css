@@ -175,7 +175,12 @@ button {
 
     .home-content {
         margin-top: 2vh;
+        
+    .language {
+        top: 20px;
+        right: 20px;
 
+}
     .home-title {
         margin-bottom: 38px;
     }
