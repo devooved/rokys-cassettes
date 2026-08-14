@@ -225,10 +225,6 @@ button {
     .home-text span:last-child {
     display: none;
     }
-    .discover-button {
-    padding: 11px 20px;
-    font-size: 13px;
-    }
 
     .album-number {
         margin-bottom: 20px;
