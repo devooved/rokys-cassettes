@@ -38,7 +38,7 @@ const homeScreen = document.getElementById("home-screen");
 const albumScreen = document.getElementById("album-screen");
 
 const discoverButton = document.getElementById("discover-button");
-const discoverMoreButton = document.getElementById("discover-more-button");
+const homeButton = document.getElementById("home-button");
 
 const albumNumber = document.getElementById("album-number");
 const albumPhoto = document.getElementById("album-photo");
@@ -72,6 +72,13 @@ function showRandomAlbum() {
     albumScreen.classList.remove("hidden");
 }
 
+function showHome() {
+
+    albumScreen.classList.add("hidden");
+
+    homeScreen.classList.remove("hidden");
+
+}
 
 // ==============================
 // BUTTONS
@@ -79,4 +86,4 @@ function showRandomAlbum() {
 
 discoverButton.addEventListener("click", showRandomAlbum);
 
-discoverMoreButton.addEventListener("click", showRandomAlbum);
+homeButton.addEventListener("click", showHome);
