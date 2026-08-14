@@ -222,6 +222,11 @@ button {
         margin-top: 14px;
     }
 
+    .discover-button {
+    padding: 11px 20px;
+    font-size: 13px;
+    }
+
     .album-number {
         margin-bottom: 20px;
     }
