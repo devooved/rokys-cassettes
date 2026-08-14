@@ -22,5 +22,61 @@
         "image": "images/003.webp",
         "youtube": "https://music.youtube.com/playlist?list=PLe_tymhD-nsc&si=82lpoi_5RwJ66WqG",
         "spotify": "https://open.spotify.com/playlist/3dk7OjsUoybL7ElebhhUEy?si=5c19b4877d914e17"
+    },
+    {
+        "number": "004",
+        "artist": "Bob Dylan",
+        "title": "Infidels",
+        "image": "images/004.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLe04TiycWUuc&si=Cemavrt8ikFQh2XM",
+        "spotify": "https://open.spotify.com/playlist/0qTz2uDcqllS56veR8dQFD?si=9Ji8ui6OSy2MPKhHNFs8JA"
+    },
+    {
+        "number": "005",
+        "artist": "Bob Marley & The Wailers",
+        "title": "Uprising",
+        "image": "images/005.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLE3XC8cnrUbU&si=2ahsu6gV7TKOi6nr",
+        "spotify": "https://open.spotify.com/playlist/4LQcelWQWrueE35v7OzDiz?si=pplWAoRESU2nH7MmJwAbQw"
+    },
+    {
+        "number": "006",
+        "artist": "Van Morrison",
+        "title": "Hymns to the Silence / Poetic Champions Compose",
+        "image": "images/006.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLRCtsFFnUV1g&si=syBfzHU8uGZXYrVz",
+        "spotify": "https://open.spotify.com/playlist/1jD6SkMsh8khmH0q9WDIYK?si=ceM2uLr_Ruiyx4DkC-xwvg"
+    },
+    {
+        "number": "007",
+        "artist": "Various",
+        "title": "Compilation 1",
+        "image": "images/007.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLOhw9cVN10mQ&si=G4gTu3aYaU7lsF7A",
+        "spotify": "https://open.spotify.com/playlist/4zm5tlZk9uQEgR7Mz2NUDN?si=A6iA4Ww8TqaaFQu-g8fvZw"
+    },
+    {
+        "number": "008",
+        "artist": "Yma Sumac",
+        "title": "Yma Sumac",
+        "image": "images/008.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLLgrtLU97E6Y&si=1uqE_B9JG4OHgSSk",
+        "spotify": "https://open.spotify.com/playlist/6kzFQjCOBU2QdxvJLbJ6Qs?si=EYOZaJIJR6y2sV45nSISIg"
+    },
+    {
+        "number": "009",
+        "artist": "Chris Rea",
+        "title": "Compilation Chris Rea",
+        "image": "images/009.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLA6RdGRYyphA&si=_JfsXoeuj5dEeIGb",
+        "spotify": "https://open.spotify.com/playlist/7MqS5wAOG4ZvF1IJc5QTJx?si=yLEwRXOMQHeBSuVqWHjWrQ"
+    },
+    {
+        "number": "010",
+        "artist": "Albert Hammond?",
+        "title": "The Free Electric Band?",
+        "image": "images/010.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLYF7Ikl7zKPI&si=9aO6u-FrsUhKfnih",
+        "spotify": "https://open.spotify.com/playlist/4ovZZu3Y6LVkuCQOX80W3a?si=cwLYoAsRQtSwJ94Rb_SsWw"
     }
 ]
