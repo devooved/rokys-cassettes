@@ -71,6 +71,18 @@ button {
     line-height: 1.8;
 }
 
+.home-text span {
+
+    display: block;
+
+}
+
+.home-text span + span {
+
+    margin-top: 24px;
+
+}
+
 .language {
     position: absolute;
     top: 24px;
@@ -204,6 +216,11 @@ button {
     .home-text {
         margin-bottom: 38px;
         line-height: 1.7;
+    }
+
+    .home-text span + span {
+        margin-top: 14px;
+
     }
 
     .album-number {
