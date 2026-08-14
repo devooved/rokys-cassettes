@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Special+Elite&display=swap');
 
 :root {
     --background: #eceadd;
@@ -57,6 +57,7 @@ button {
 }
 
 .home-title {
+    font-family: 'Special Elite', 'Courier New', monospace;
     margin: 0 0 48px;
     font-size: clamp(24px, 5vw, 42px);
     font-weight: normal;
@@ -80,6 +81,7 @@ button {
 
 .language button {
     cursor: pointer;
+    font-family: 'Special Elite', 'Courier New', monospace;
     text-decoration: underline;
     text-underline-offset: 4px;
 }
@@ -93,6 +95,7 @@ button {
     border: 1px solid var(--border);
     padding: 14px 28px;
     cursor: pointer;
+    font-family: 'Special Elite', 'Courier New', monospace;
     transition: background 180ms ease, color 180ms ease;
 }
 
