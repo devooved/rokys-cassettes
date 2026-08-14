@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
 
 :root {
     --background: #eceadd;
@@ -20,7 +20,7 @@ body {
 body {
     background: var(--background);
     color: var(--text);
-    font-family: 'Special Elite', 'Courier New', monospace;
+    font-family: 'Cutive Mono', 'Courier New', monospace;
     font-size: 16px;
 }
 
