@@ -2,32 +2,23 @@
 // ALBUM DATA
 // ==============================
 
-const albums = [
-    {
-        number: "001",
-        artist: "Τερμίτες / Αρλετα",
-        title: "Τσαι Γιασεμιου / Η Αμαρτωλή Μαρία",
-        image: "images/001.webp",
-        youtube: "https://music.youtube.com/playlist?list=PLMUwsVAm8oVQ&si=iBqj9Ve_a3-9-frA",
-        spotify: "https://open.spotify.com/playlist/3OhdpVcjGyaB2HYckW5nZy?si=9_sAvJhuTpyJDT_fQ0p3gQ"
-    },
-    {
-        number: "002",
-        artist: "Iggy Pop",
-        title: "Brick by Brick",
-        image: "images/002.webp",
-        youtube: "https://music.youtube.com/playlist?list=PLZgOZEuYOqlo&si=G0v2FpCKuSeZgyix",
-        spotify: "https://open.spotify.com/playlist/7yCVVekzvWkTtpHcdDca77?si=j5da_TJcRoGkuEIiolgzTA"
-    },
-    {
-        number: "003",
-        artist: "Eric Burdon and The Animals",
-        title: "House Of The Rising Sun",
-        image: "images/003.webp",
-        youtube: "https://music.youtube.com/playlist?list=PLe_tymhD-nsc&si=82lpoi_5RwJ66WqG",
-        spotify: "https://open.spotify.com/playlist/3dk7OjsUoybL7ElebhhUEy?si=5c19b4877d914e17"
-    }
-];
+let albums = [];
+
+fetch("albums.json")
+
+    .then(response => response.json())
+
+    .then(data => {
+
+        albums = data;
+
+    })
+
+    .catch(error => {
+
+        console.error("Error loading albums:", error);
+
+    });
 
 
 // ==============================
