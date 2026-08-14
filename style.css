@@ -188,7 +188,7 @@ button {
     }
 
     .home-content {
-        margin-top: 8vh;
+        margin-top: 12vh;
     }
 
     .language {
@@ -197,13 +197,13 @@ button {
     }
 
     .home-title {
-        margin-bottom: 28px;
+        margin-bottom: 38px;
         font-size: clamp(24px, 8vw, 34px);
     }
 
     .home-text {
-        margin-bottom: 26px;
-        line-height: 1.55;
+        margin-bottom: 38px;
+        line-height: 1.7;
     }
 
     .album-number {
