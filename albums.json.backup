@@ -462,5 +462,117 @@
         "image": "images/058.webp",
         "youtube": "",
         "spotify": ""
+    },
+    {
+        "number": "059",
+        "artist": "Paul Simon",
+        "title": "Compilation",
+        "image": "images/059.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "060",
+        "artist": "Λίτσα Διαμάντη / Ρίτα Σακελλαρίου",
+        "title": "Compilation",
+        "image": "images/060.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "061",
+        "artist": "Woody Guthrie / Various Blues",
+        "title": "Compilation",
+        "image": "images/061.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "062",
+        "artist": "Γιώργος Νταλάρας / Πυξ Λαξ / Various",
+        "title": "Compilation",
+        "image": "images/062.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "063",
+        "artist": "Van Morrison",
+        "title": "Enlightenment",
+        "image": "images/063.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "064",
+        "artist": "King Crimson",
+        "title": "Three of a Perfect Pair",
+        "image": "images/064.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "065",
+        "artist": "Glenn Miller / Louis Armstrong / Oscar Peterson",
+        "title": "Compilation",
+        "image": "images/065.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "066",
+        "artist": "The Stranglers",
+        "title": "Aural Sculpture",
+        "image": "images/066.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "067",
+        "artist": "Lightin' Hopkins",
+        "title": "How Many More Years I Got",
+        "image": "images/067.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "068",
+        "artist": "Vangelis & Irene Papas",
+        "title": "Ραψωδίες / Soil Festivities / Mask",
+        "image": "images/068.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "069",
+        "artist": "John Mayall / The Dobbie Brothers",
+        "title": "Looking Back / What Were Once Vices Are Now Habits",
+        "image": "images/069.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "070",
+        "artist": "Carole King",
+        "title": "Tapestry",
+        "image": "images/070.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "071",
+        "artist": "Δυνάμεις του Αιγαίου / Various",
+        "title": "Compilation",
+        "image": "images/071.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "072",
+        "artist": "Dire Straits",
+        "title": "Love Over Gold",
+        "image": "images/072.webp",
+        "youtube": "",
+        "spotify": ""
     }
 ]
