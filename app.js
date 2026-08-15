@@ -73,8 +73,21 @@ function showRandomAlbum() {
     albumArtist.textContent = album.artist;
     albumTitle.textContent = album.title;
 
-    youtubeLink.href = album.youtube;
-    spotifyLink.href = album.spotify;
+    if (album.youtube) {
+        youtubeLink.href = album.youtube;
+        youtubeLink.style.display = "";
+    } else {
+        youtubeLink.href = "#";
+        youtubeLink.style.display = "none";
+    }
+
+    if (album.spotify) {
+        spotifyLink.href = album.spotify;
+        spotifyLink.style.display = "";
+    } else {
+        spotifyLink.href = "#";
+        spotifyLink.style.display = "none";
+    }
 
     homeScreen.classList.add("hidden");
     albumScreen.classList.remove("hidden");

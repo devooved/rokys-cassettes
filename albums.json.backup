@@ -50,7 +50,7 @@
     {
         "number": "007",
         "artist": "Various",
-        "title": "Compilation 1",
+        "title": "Compilation",
         "image": "images/007.webp",
         "youtube": "",
         "spotify": ""
@@ -98,7 +98,7 @@
     {
         "number": "013",
         "artist": "Various",
-        "title": "Compilation 2",
+        "title": "Compilation",
         "image": "images/013.webp",
         "youtube": "",
         "spotify": ""
@@ -106,7 +106,7 @@
     {
         "number": "014",
         "artist": "Various",
-        "title": "Compilation 3",
+        "title": "Compilation",
         "image": "images/014.webp",
         "youtube": "",
         "spotify": ""
@@ -138,7 +138,7 @@
     {
         "number": "018",
         "artist": "Various",
-        "title": "Compilation 4",
+        "title": "Compilation",
         "image": "images/018.webp",
         "youtube": "",
         "spotify": ""
@@ -228,6 +228,238 @@
         "artist": "Vangelis / Pink Floyd",
         "title": "Compilation",
         "image": "images/029.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "030",
+        "artist": "Paul McCartney & Wings",
+        "title": "Band on the Run / Venus and Mars",
+        "image": "images/030.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "031",
+        "artist": "Dead Can Dance / Nooten & Brook / This Mortal Coil / Cocteau Twins",
+        "title": "Compilation",
+        "image": "images/031.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "032",
+        "artist": "Kitaro",
+        "title": "Kojiki",
+        "image": "images/032.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "033",
+        "artist": "Bruce Sppringsteen / Others",
+        "title": "Compilation",
+        "image": "images/033.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "034",
+        "artist": "Ariel Ramírez & Los Fronterizos",
+        "title": "Misa Criolla",
+        "image": "images/034.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "035",
+        "artist": "Βασίλης Παπακωνσταντίνου",
+        "title": "Παπακωνσταντίνου",
+        "image": "images/035.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "036",
+        "artist": "Tracy Chapman",
+        "title": "Tracy Chapman",
+        "image": "images/036.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "037",
+        "artist": "Ludwig Van Beethoveen",
+        "title": "Eroica",
+        "image": "images/037.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "038",
+        "artist": "Frank Zappa",
+        "title": "Sheik Yerbouti",
+        "image": "images/038.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "039",
+        "artist": "The Blues Brothers / Peter Hamill",
+        "title": "Live / Sitting Targets",
+        "image": "images/039.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "040",
+        "artist": "Γιώργος Νταλάρας",
+        "title": "Latin",
+        "image": "images/040.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "041",
+        "artist": "Die Kammer-Jazz-Gruppe",
+        "title": "Bach in Jazz",
+        "image": "images/041.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "042",
+        "artist": "Harry Nilsson / Cass Elliot",
+        "title": "The Point! / Bubblegum, Lemonade &… Somtehing for Mama",
+        "image": "images/042.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "043",
+        "artist": "Στράτος Παγιουμτζής",
+        "title": "Ραδιόφωνο (?)",
+        "image": "images/043.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "044",
+        "artist": "John Lennon",
+        "title": "Imagine / Rock 'N' Roll",
+        "image": "images/044.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "045",
+        "artist": "Tom Waits",
+        "title": "Nighthawks At The Diner",
+        "image": "images/045.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "046",
+        "artist": "The Beatles",
+        "title": "Rubber Soul",
+        "image": "images/046.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "047",
+        "artist": "Freddie Mercury & Montserrat Caballé (?)",
+        "title": "Βαρκελώνη",
+        "image": "images/047.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "048",
+        "artist": "Déjà Vu",
+        "title": "Crosby, Stills, Nash & Young",
+        "image": "images/048.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "049",
+        "artist": "Various",
+        "title": "Compilation",
+        "image": "images/049.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "050",
+        "artist": "Los Romeros de la Puebla",
+        "title": "Sevillanas",
+        "image": "images/050.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "051",
+        "artist": "Shirley Horn",
+        "title": "You Won't Forget Me",
+        "image": "images/051.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "052",
+        "artist": "Carole King",
+        "title": "Speeding Time",
+        "image": "images/052.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "053",
+        "artist": "Joe Satriani?",
+        "title": "Satriani (The Extremist?)",
+        "image": "images/053.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "054",
+        "artist": "Various",
+        "title": "Compilation",
+        "image": "images/054.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "055",
+        "artist": "Van Morrison",
+        "title": "Hymns to the Silence",
+        "image": "images/055.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "056",
+        "artist": "Tangerine Dream",
+        "title": "Compilation",
+        "image": "images/056.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "057",
+        "artist": "Diana Ross",
+        "title": "Diana",
+        "image": "images/057.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "058",
+        "artist": "Various",
+        "title": "Compilation",
+        "image": "images/058.webp",
         "youtube": "",
         "spotify": ""
     }
