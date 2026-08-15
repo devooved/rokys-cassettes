@@ -78,5 +78,149 @@
         "image": "images/010.webp",
         "youtube": "https://music.youtube.com/playlist?list=PLYF7Ikl7zKPI&si=9aO6u-FrsUhKfnih",
         "spotify": "https://open.spotify.com/playlist/4ovZZu3Y6LVkuCQOX80W3a?si=cwLYoAsRQtSwJ94Rb_SsWw"
+    },
+    {
+        "number": "011",
+        "artist": "Iggy Pop / Frankie Goes to Hollywood / Tom Robinson",
+        "title": "Blah-Blah-Blah / Liverpool / Still Loving You",
+        "image": "images/011.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLOsuUpLGEatM&si=aoVNDtuLeqG1VwmM",
+        "spotify": "https://open.spotify.com/playlist/4VUIniuSiRTNsU7etmfyG1?si=bf4d4a8828124b4b"
+    },
+    {
+        "number": "012",
+        "artist": "Various",
+        "title": "Απ'τον Νίκο για τον Ρόκκο",
+        "image": "images/012.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLADLgUsMb_U0&si=TDMR275Q6iOlOeMn",
+        "spotify": "https://open.spotify.com/playlist/1NxIsP9IiOEm71L6Z29e0k?si=mdWhPf6_SxyzePngn9_p7w"
+    },
+    {
+        "number": "013",
+        "artist": "Various",
+        "title": "Compilation 2",
+        "image": "images/013.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLfJtBG_fd52g&si=yZ-urbtq_eMAptIf",
+        "spotify": "https://open.spotify.com/playlist/1WoBW06exu3WiCQLWyn2sZ?si=9eyOECyBS_CDwinrGPOZDA"
+    },
+    {
+        "number": "014",
+        "artist": "Various",
+        "title": "Compilation 3",
+        "image": "images/014.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLD_MbID1B9sg&si=cJD7BR7F7h-EKrxk",
+        "spotify": "https://open.spotify.com/playlist/22Wr3LuwvFusLnVkNXoLCx?si=uoHwNzXHQpW1qv82PIIFhg"
+    },
+    {
+        "number": "015",
+        "artist": "The Neville Brothers",
+        "title": "Uptown",
+        "image": "images/015.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLVaiDInzmdP0&si=cBiMziK2_llhi9fe",
+        "spotify": "https://open.spotify.com/playlist/7jWfTH7QYkihM72nBWeOPY?si=KN_Rw4VtRT-DFqYim2xsrA"
+    },
+    {
+        "number": "016",
+        "artist": "Radka Toneff & Steve Dobrogosz",
+        "title": "Fairytales",
+        "image": "images/016.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLZmb9-sma6JY&si=XcpwEkiRirVzPw6x",
+        "spotify": "https://open.spotify.com/playlist/0NKpY8qNAbCqYgU5MwK0CP?si=6rx7LWA1R0yImUe-z1TdJQ"
+    },
+    {
+        "number": "017",
+        "artist": "Sohair Zaki & Nagwa Fouad",
+        "title": "Boss Boss - Ala Wahda We Nos",
+        "image": "images/017.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLM0yub2XOhlQ&si=8Wj7zAJREdApu9F3",
+        "spotify": "https://open.spotify.com/playlist/6UcvdZPRg9MCz9mzjYQx5g?si=Lsdwqnd2SUCbdd6gJSyYNA"
+    },
+    {
+        "number": "018",
+        "artist": "Various",
+        "title": "Compilation 4",
+        "image": "images/018.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLMtRtPfcZfJI&si=8dWSy4n7hDnyJNLW",
+        "spotify": "https://open.spotify.com/playlist/4oaDqqxt54Ypr2l1kC4AI3?si=8cXGmEz9QUqudk02wB5niQ"
+    },
+    {
+        "number": "019",
+        "artist": "Frank Zappa",
+        "title": "Unknown",
+        "image": "images/019.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLdSeTIJMEDk0&si=pEMPPEc1h58oKz0N",
+        "spotify": "https://open.spotify.com/playlist/2XqT5PEDxP8D7q1WIykGiZ?si=VZpDSefYSfeayOY2WJr-6w"
+    },
+    {
+        "number": "020",
+        "artist": "Yanni",
+        "title": "Reflections of Passion",
+        "image": "images/020.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLTYLmKR5pXNE&si=OZXBERxgQG65jlVG",
+        "spotify": "https://open.spotify.com/playlist/4trB6lAURMqBfCIbMXSAP0?si=-diLLXDTQCWlJPk39FGnLQ"
+    },
+    {
+        "number": "021",
+        "artist": "Dr. John",
+        "title": "Goin' Back to New Orleans",
+        "image": "images/021.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLbVSVPwf6-Bc&si=HhOH6HTQmhhDGlKJ",
+        "spotify": "https://open.spotify.com/playlist/5DDJTuBBOL1grZKO1SNKRM?si=XTBinYGkQBKHxgJ8x9xS6w"
+    },
+    {
+        "number": "022",
+        "artist": "Depeche Mode",
+        "title": "Music for the Masses",
+        "image": "images/022.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLYm160DxmZCc&si=GhKtBEhFa9YGhjLM",
+        "spotify": "https://open.spotify.com/playlist/1TcQaUnYcLRZTSX0yGpFfe?si=ItnL1YJ0TzqFqdJdvphl6g"
+    },
+    {
+        "number": "023",
+        "artist": "Tom Waits",
+        "title": "Anthology of Tom Waits",
+        "image": "images/023.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLZqe3eSDT3Do&si=fgzO1NXhArLIYieo",
+        "spotify": "https://open.spotify.com/playlist/7eNub7K0PfLm0Dc1ezJtZc?si=9IRg6sGqRmShceBiC83Dlg"
+    },
+    {
+        "number": "024",
+        "artist": "Bob Marley & The Wailers",
+        "title": "Unknown",
+        "image": "images/024.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLIlP-H3Do-Fs&si=rDnzwGPgOuFqJCi0",
+        "spotify": "https://open.spotify.com/playlist/6WexEzHx17Ufs3bjaaRUu5?si=iHZ_kCZpSXS-ndvQh7ujlw"
+    },
+    {
+        "number": "025",
+        "artist": "Αρλετα",
+        "title": "Αρλετα (?)",
+        "image": "images/025.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLMUnoM2biF2M&si=n7bLV03aYZd5EaZ9",
+        "spotify": "https://open.spotify.com/playlist/1ravIF97YfFuBlcrrxdkUO?si=sglPvAnBTJGL4qDCxDMbZg"
+    },
+    {
+        "number": "026",
+        "artist": "Various",
+        "title": "Ta harpa di stem strenganje",
+        "image": "images/026.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLfEgo18zid7Y&si=SKPrOmIcq-Zme9S9",
+        "spotify": "https://open.spotify.com/playlist/3l5cg6uob0zhpILyEwlANZ?si=1Sfnaa5iS1ygsuvSy19uFg"
+    },
+    {
+        "number": "027",
+        "artist": "Ravi Shankar",
+        "title": "Sitar",
+        "image": "images/027.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLT_eEfT0tZ5M&si=oS4GtvXzbXjf6tUE",
+        "spotify": "https://open.spotify.com/playlist/2PItyjkJF7vu3eFebKPKvo?si=qh3D1yYHSVOIRwaXx7mnYQ"
+    },
+    {
+        "number": "028",
+        "artist": "Ramazan Ceyhanli",
+        "title": "Server",
+        "image": "images/028.webp",
+        "youtube": "https://music.youtube.com/playlist?list=PLUs42P75_xdg&si=U-kI5RXInfOapzdj",
+        "spotify": "https://open.spotify.com/playlist/6aGpYSywyhDznhFeyhnHkK?si=Oj9JZFYTTmuDJBkCNrMWXQ"
     }
 ]
