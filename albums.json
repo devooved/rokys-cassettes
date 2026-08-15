@@ -4,223 +4,231 @@
         "artist": "Τερμίτες / Αρλετα",
         "title": "Τσαι Γιασεμιου / Η Αμαρτωλή Μαρία",
         "image": "images/001.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLMUwsVAm8oVQ&si=iBqj9Ve_a3-9-frA",
-        "spotify": "https://open.spotify.com/playlist/3OhdpVcjGyaB2HYckW5nZy?si=9_sAvJhuTpyJDT_fQ0p3gQ"
+        "youtube": "https://www.youtube.com/playlist?list=PLMUwsVAm8oVQ",
+        "spotify": "https://open.spotify.com/playlist/3OhdpVcjGyaB2HYckW5nZy"
     },
     {
         "number": "002",
         "artist": "Iggy Pop",
         "title": "Brick by Brick",
         "image": "images/002.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLZgOZEuYOqlo&si=G0v2FpCKuSeZgyix",
-        "spotify": "https://open.spotify.com/playlist/7yCVVekzvWkTtpHcdDca77?"
+        "youtube": "https://www.youtube.com/playlist?list=PLZgOZEuYOqlo",
+        "spotify": "https://open.spotify.com/playlist/7yCVVekzvWkTtpHcdDca77"
     },
     {
         "number": "003",
         "artist": "Eric Burdon and The Animals",
         "title": "House Of The Rising Sun",
         "image": "images/003.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLe_tymhD-nsc&si=82lpoi_5RwJ66WqG",
-        "spotify": "https://open.spotify.com/playlist/3dk7OjsUoybL7ElebhhUEy?si=5c19b4877d914e17"
+        "youtube": "https://www.youtube.com/playlist?list=PLe_tymhD-nsc",
+        "spotify": "https://open.spotify.com/playlist/3dk7OjsUoybL7ElebhhUEy"
     },
     {
         "number": "004",
         "artist": "Bob Dylan",
         "title": "Infidels",
         "image": "images/004.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLe04TiycWUuc&si=Cemavrt8ikFQh2XM",
-        "spotify": "https://open.spotify.com/playlist/0qTz2uDcqllS56veR8dQFD?si=9Ji8ui6OSy2MPKhHNFs8JA"
+        "youtube": "https://www.youtube.com/playlist?list=PLe04TiycWUuc",
+        "spotify": "https://open.spotify.com/playlist/0qTz2uDcqllS56veR8dQFD"
     },
     {
         "number": "005",
         "artist": "Bob Marley & The Wailers",
         "title": "Uprising",
         "image": "images/005.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLE3XC8cnrUbU&si=2ahsu6gV7TKOi6nr",
-        "spotify": "https://open.spotify.com/playlist/4LQcelWQWrueE35v7OzDiz?si=pplWAoRESU2nH7MmJwAbQw"
+        "youtube": "https://www.youtube.com/playlist?list=PLE3XC8cnrUbU",
+        "spotify": "https://open.spotify.com/playlist/4LQcelWQWrueE35v7OzDiz"
     },
     {
         "number": "006",
         "artist": "Van Morrison",
         "title": "Hymns to the Silence / Poetic Champions Compose",
         "image": "images/006.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLRCtsFFnUV1g&si=syBfzHU8uGZXYrVz",
-        "spotify": "https://open.spotify.com/playlist/1jD6SkMsh8khmH0q9WDIYK?si=ceM2uLr_Ruiyx4DkC-xwvg"
+        "youtube": "https://www.youtube.com/playlist?list=PLRCtsFFnUV1g",
+        "spotify": "https://open.spotify.com/playlist/1jD6SkMsh8khmH0q9WDIYK"
     },
     {
         "number": "007",
         "artist": "Various",
         "title": "Compilation 1",
         "image": "images/007.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLOhw9cVN10mQ&si=G4gTu3aYaU7lsF7A",
-        "spotify": "https://open.spotify.com/playlist/4zm5tlZk9uQEgR7Mz2NUDN?si=A6iA4Ww8TqaaFQu-g8fvZw"
+        "youtube": "https://www.youtube.com/playlist?list=PLOhw9cVN10mQ",
+        "spotify": "https://open.spotify.com/playlist/4zm5tlZk9uQEgR7Mz2NUDN"
     },
     {
         "number": "008",
         "artist": "Yma Sumac",
         "title": "Yma Sumac",
         "image": "images/008.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLLgrtLU97E6Y&si=1uqE_B9JG4OHgSSk",
-        "spotify": "https://open.spotify.com/playlist/6kzFQjCOBU2QdxvJLbJ6Qs?si=EYOZaJIJR6y2sV45nSISIg"
+        "youtube": "https://www.youtube.com/playlist?list=PLLgrtLU97E6Y",
+        "spotify": "https://open.spotify.com/playlist/6kzFQjCOBU2QdxvJLbJ6Qs"
     },
     {
         "number": "009",
         "artist": "Chris Rea",
         "title": "Compilation Chris Rea",
         "image": "images/009.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLA6RdGRYyphA&si=_JfsXoeuj5dEeIGb",
-        "spotify": "https://open.spotify.com/playlist/7MqS5wAOG4ZvF1IJc5QTJx?si=yLEwRXOMQHeBSuVqWHjWrQ"
+        "youtube": "https://www.youtube.com/playlist?list=PLA6RdGRYyphA",
+        "spotify": "https://open.spotify.com/playlist/7MqS5wAOG4ZvF1IJc5QTJx"
     },
     {
         "number": "010",
         "artist": "Albert Hammond?",
         "title": "The Free Electric Band?",
         "image": "images/010.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLYF7Ikl7zKPI&si=9aO6u-FrsUhKfnih",
-        "spotify": "https://open.spotify.com/playlist/4ovZZu3Y6LVkuCQOX80W3a?si=cwLYoAsRQtSwJ94Rb_SsWw"
+        "youtube": "https://www.youtube.com/playlist?list=PLYF7Ikl7zKPI",
+        "spotify": "https://open.spotify.com/playlist/4ovZZu3Y6LVkuCQOX80W3a"
     },
     {
         "number": "011",
         "artist": "Iggy Pop / Frankie Goes to Hollywood / Tom Robinson",
         "title": "Blah-Blah-Blah / Liverpool / Still Loving You",
         "image": "images/011.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLOsuUpLGEatM&si=aoVNDtuLeqG1VwmM",
-        "spotify": "https://open.spotify.com/playlist/4VUIniuSiRTNsU7etmfyG1?si=bf4d4a8828124b4b"
+        "youtube": "https://www.youtube.com/playlist?list=PLOsuUpLGEatM",
+        "spotify": "https://open.spotify.com/playlist/4VUIniuSiRTNsU7etmfyG1"
     },
     {
         "number": "012",
         "artist": "Various",
         "title": "Απ'τον Νίκο για τον Ρόκκο",
         "image": "images/012.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLADLgUsMb_U0&si=TDMR275Q6iOlOeMn",
-        "spotify": "https://open.spotify.com/playlist/1NxIsP9IiOEm71L6Z29e0k?si=mdWhPf6_SxyzePngn9_p7w"
+        "youtube": "https://www.youtube.com/playlist?list=PLADLgUsMb_U0",
+        "spotify": "https://open.spotify.com/playlist/1NxIsP9IiOEm71L6Z29e0k"
     },
     {
         "number": "013",
         "artist": "Various",
         "title": "Compilation 2",
         "image": "images/013.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLfJtBG_fd52g&si=yZ-urbtq_eMAptIf",
-        "spotify": "https://open.spotify.com/playlist/1WoBW06exu3WiCQLWyn2sZ?si=9eyOECyBS_CDwinrGPOZDA"
+        "youtube": "https://www.youtube.com/playlist?list=PLfJtBG_fd52g",
+        "spotify": "https://open.spotify.com/playlist/1WoBW06exu3WiCQLWyn2sZ"
     },
     {
         "number": "014",
         "artist": "Various",
         "title": "Compilation 3",
         "image": "images/014.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLD_MbID1B9sg&si=cJD7BR7F7h-EKrxk",
-        "spotify": "https://open.spotify.com/playlist/22Wr3LuwvFusLnVkNXoLCx?si=uoHwNzXHQpW1qv82PIIFhg"
+        "youtube": "https://www.youtube.com/playlist?list=PLD_MbID1B9sg",
+        "spotify": "https://open.spotify.com/playlist/22Wr3LuwvFusLnVkNXoLCx"
     },
     {
         "number": "015",
         "artist": "The Neville Brothers",
         "title": "Uptown",
         "image": "images/015.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLVaiDInzmdP0&si=cBiMziK2_llhi9fe",
-        "spotify": "https://open.spotify.com/playlist/7jWfTH7QYkihM72nBWeOPY?si=KN_Rw4VtRT-DFqYim2xsrA"
+        "youtube": "https://www.youtube.com/playlist?list=PLVaiDInzmdP0",
+        "spotify": "https://open.spotify.com/playlist/7jWfTH7QYkihM72nBWeOPY"
     },
     {
         "number": "016",
         "artist": "Radka Toneff & Steve Dobrogosz",
         "title": "Fairytales",
         "image": "images/016.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLZmb9-sma6JY&si=XcpwEkiRirVzPw6x",
-        "spotify": "https://open.spotify.com/playlist/0NKpY8qNAbCqYgU5MwK0CP?si=6rx7LWA1R0yImUe-z1TdJQ"
+        "youtube": "https://www.youtube.com/playlist?list=PLZmb9-sma6JY",
+        "spotify": "https://open.spotify.com/playlist/0NKpY8qNAbCqYgU5MwK0CP"
     },
     {
         "number": "017",
         "artist": "Sohair Zaki & Nagwa Fouad",
         "title": "Boss Boss - Ala Wahda We Nos",
         "image": "images/017.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLM0yub2XOhlQ&si=8Wj7zAJREdApu9F3",
-        "spotify": "https://open.spotify.com/playlist/6UcvdZPRg9MCz9mzjYQx5g?si=Lsdwqnd2SUCbdd6gJSyYNA"
+        "youtube": "https://www.youtube.com/playlist?list=PLM0yub2XOhlQ",
+        "spotify": "https://open.spotify.com/playlist/6UcvdZPRg9MCz9mzjYQx5g"
     },
     {
         "number": "018",
         "artist": "Various",
         "title": "Compilation 4",
         "image": "images/018.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLMtRtPfcZfJI&si=8dWSy4n7hDnyJNLW",
-        "spotify": "https://open.spotify.com/playlist/4oaDqqxt54Ypr2l1kC4AI3?si=8cXGmEz9QUqudk02wB5niQ"
+        "youtube": "https://www.youtube.com/playlist?list=PLMtRtPfcZfJI",
+        "spotify": "https://open.spotify.com/playlist/4oaDqqxt54Ypr2l1kC4AI3"
     },
     {
         "number": "019",
         "artist": "Frank Zappa",
         "title": "Unknown",
         "image": "images/019.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLdSeTIJMEDk0&si=pEMPPEc1h58oKz0N",
-        "spotify": "https://open.spotify.com/playlist/2XqT5PEDxP8D7q1WIykGiZ?si=VZpDSefYSfeayOY2WJr-6w"
+        "youtube": "https://www.youtube.com/playlist?list=PLdSeTIJMEDk0",
+        "spotify": "https://open.spotify.com/playlist/2XqT5PEDxP8D7q1WIykGiZ"
     },
     {
         "number": "020",
         "artist": "Yanni",
         "title": "Reflections of Passion",
         "image": "images/020.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLTYLmKR5pXNE&si=OZXBERxgQG65jlVG",
-        "spotify": "https://open.spotify.com/playlist/4trB6lAURMqBfCIbMXSAP0?si=-diLLXDTQCWlJPk39FGnLQ"
+        "youtube": "https://www.youtube.com/playlist?list=PLTYLmKR5pXNE",
+        "spotify": "https://open.spotify.com/playlist/4trB6lAURMqBfCIbMXSAP0"
     },
     {
         "number": "021",
         "artist": "Dr. John",
         "title": "Goin' Back to New Orleans",
         "image": "images/021.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLbVSVPwf6-Bc&si=HhOH6HTQmhhDGlKJ",
-        "spotify": "https://open.spotify.com/playlist/5DDJTuBBOL1grZKO1SNKRM?si=XTBinYGkQBKHxgJ8x9xS6w"
+        "youtube": "https://www.youtube.com/playlist?list=PLbVSVPwf6-Bc",
+        "spotify": "https://open.spotify.com/playlist/5DDJTuBBOL1grZKO1SNKRM"
     },
     {
         "number": "022",
         "artist": "Depeche Mode",
         "title": "Music for the Masses",
         "image": "images/022.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLYm160DxmZCc&si=GhKtBEhFa9YGhjLM",
-        "spotify": "https://open.spotify.com/playlist/1TcQaUnYcLRZTSX0yGpFfe?si=ItnL1YJ0TzqFqdJdvphl6g"
+        "youtube": "https://www.youtube.com/playlist?list=PLYm160DxmZCc",
+        "spotify": "https://open.spotify.com/playlist/1TcQaUnYcLRZTSX0yGpFfe"
     },
     {
         "number": "023",
         "artist": "Tom Waits",
         "title": "Anthology of Tom Waits",
         "image": "images/023.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLZqe3eSDT3Do&si=fgzO1NXhArLIYieo",
-        "spotify": "https://open.spotify.com/playlist/7eNub7K0PfLm0Dc1ezJtZc?si=9IRg6sGqRmShceBiC83Dlg"
+        "youtube": "https://www.youtube.com/playlist?list=PLZqe3eSDT3Do",
+        "spotify": "https://open.spotify.com/playlist/7eNub7K0PfLm0Dc1ezJtZc"
     },
     {
         "number": "024",
         "artist": "Bob Marley & The Wailers",
         "title": "Unknown",
         "image": "images/024.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLIlP-H3Do-Fs&si=rDnzwGPgOuFqJCi0",
-        "spotify": "https://open.spotify.com/playlist/6WexEzHx17Ufs3bjaaRUu5?si=iHZ_kCZpSXS-ndvQh7ujlw"
+        "youtube": "https://www.youtube.com/playlist?list=PLIlP-H3Do-Fs",
+        "spotify": "https://open.spotify.com/playlist/6WexEzHx17Ufs3bjaaRUu5"
     },
     {
         "number": "025",
         "artist": "Αρλετα",
         "title": "Αρλετα (?)",
         "image": "images/025.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLMUnoM2biF2M&si=n7bLV03aYZd5EaZ9",
-        "spotify": "https://open.spotify.com/playlist/1ravIF97YfFuBlcrrxdkUO?si=sglPvAnBTJGL4qDCxDMbZg"
+        "youtube": "https://www.youtube.com/playlist?list=PLMUnoM2biF2M",
+        "spotify": "https://open.spotify.com/playlist/1ravIF97YfFuBlcrrxdkUO"
     },
     {
         "number": "026",
         "artist": "Various",
         "title": "Ta harpa di stem strenganje",
         "image": "images/026.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLfEgo18zid7Y&si=SKPrOmIcq-Zme9S9",
-        "spotify": "https://open.spotify.com/playlist/3l5cg6uob0zhpILyEwlANZ?si=1Sfnaa5iS1ygsuvSy19uFg"
+        "youtube": "https://www.youtube.com/playlist?list=PLfEgo18zid7Y",
+        "spotify": "https://open.spotify.com/playlist/3l5cg6uob0zhpILyEwlANZ"
     },
     {
         "number": "027",
         "artist": "Ravi Shankar",
         "title": "Sitar",
         "image": "images/027.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLT_eEfT0tZ5M&si=oS4GtvXzbXjf6tUE",
-        "spotify": "https://open.spotify.com/playlist/2PItyjkJF7vu3eFebKPKvo?si=qh3D1yYHSVOIRwaXx7mnYQ"
+        "youtube": "https://www.youtube.com/playlist?list=PLT_eEfT0tZ5M",
+        "spotify": "https://open.spotify.com/playlist/2PItyjkJF7vu3eFebKPKvo"
     },
     {
         "number": "028",
         "artist": "Ramazan Ceyhanli",
         "title": "Server",
         "image": "images/028.webp",
-        "youtube": "https://music.youtube.com/playlist?list=PLUs42P75_xdg&si=U-kI5RXInfOapzdj",
-        "spotify": "https://open.spotify.com/playlist/6aGpYSywyhDznhFeyhnHkK?si=Oj9JZFYTTmuDJBkCNrMWXQ"
+        "youtube": "https://www.youtube.com/playlist?list=PLUs42P75_xdg",
+        "spotify": "https://open.spotify.com/playlist/6aGpYSywyhDznhFeyhnHkK"
+    },
+    {
+        "number": "029",
+        "artist": "Vangelis / Pink Floyd",
+        "title": "Compilation",
+        "image": "images/029.webp",
+        "youtube": "https://www.youtube.com/playlist?list=PLZ5XS-kCMAZ4",
+        "spotify": "https://open.spotify.com/playlist/3GHdM7PUidN9V1AUUBMaKA"
     }
 ]

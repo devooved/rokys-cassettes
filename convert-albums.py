@@ -27,8 +27,6 @@ required_headers = [
     "number",
     "artist",
     "title",
-    "youtube",
-    "spotify"
 ]
 
 if headers != required_headers:
@@ -53,13 +51,11 @@ for row_number, row in enumerate(
     if all(value is None for value in row):
         continue
 
-    number, artist, title, youtube, spotify = row
+    number, artist, title = row
 
     number = str(number).strip() if number is not None else ""
     artist = str(artist).strip() if artist is not None else ""
     title = str(title).strip() if title is not None else ""
-    youtube = str(youtube).strip() if youtube is not None else ""
-    spotify = str(spotify).strip() if spotify is not None else ""
 
     # Validate required fields
     if not number:
@@ -70,12 +66,6 @@ for row_number, row in enumerate(
 
     if not title:
         raise ValueError(f"Row {row_number}: missing title")
-
-    if not youtube:
-        raise ValueError(f"Row {row_number}: missing YouTube URL")
-
-    if not spotify:
-        raise ValueError(f"Row {row_number}: missing Spotify URL")
 
     # Check image
     image_file = IMAGES_DIR / f"{number}.webp"
@@ -96,8 +86,8 @@ for row_number, row in enumerate(
         "artist": artist,
         "title": title,
         "image": f"images/{number}.webp",
-        "youtube": youtube,
-        "spotify": spotify
+        "youtube": "",
+        "spotify": ""
     })
 
 

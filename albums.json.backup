@@ -1,0 +1,234 @@
+[
+    {
+        "number": "001",
+        "artist": "Τερμίτες / Αρλετα",
+        "title": "Τσαι Γιασεμιου / Η Αμαρτωλή Μαρία",
+        "image": "images/001.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "002",
+        "artist": "Iggy Pop",
+        "title": "Brick by Brick",
+        "image": "images/002.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "003",
+        "artist": "Eric Burdon and The Animals",
+        "title": "House Of The Rising Sun",
+        "image": "images/003.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "004",
+        "artist": "Bob Dylan",
+        "title": "Infidels",
+        "image": "images/004.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "005",
+        "artist": "Bob Marley & The Wailers",
+        "title": "Uprising",
+        "image": "images/005.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "006",
+        "artist": "Van Morrison",
+        "title": "Hymns to the Silence / Poetic Champions Compose",
+        "image": "images/006.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "007",
+        "artist": "Various",
+        "title": "Compilation 1",
+        "image": "images/007.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "008",
+        "artist": "Yma Sumac",
+        "title": "Yma Sumac",
+        "image": "images/008.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "009",
+        "artist": "Chris Rea",
+        "title": "Compilation Chris Rea",
+        "image": "images/009.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "010",
+        "artist": "Albert Hammond?",
+        "title": "The Free Electric Band?",
+        "image": "images/010.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "011",
+        "artist": "Iggy Pop / Frankie Goes to Hollywood / Tom Robinson",
+        "title": "Blah-Blah-Blah / Liverpool / Still Loving You",
+        "image": "images/011.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "012",
+        "artist": "Various",
+        "title": "Απ'τον Νίκο για τον Ρόκκο",
+        "image": "images/012.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "013",
+        "artist": "Various",
+        "title": "Compilation 2",
+        "image": "images/013.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "014",
+        "artist": "Various",
+        "title": "Compilation 3",
+        "image": "images/014.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "015",
+        "artist": "The Neville Brothers",
+        "title": "Uptown",
+        "image": "images/015.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "016",
+        "artist": "Radka Toneff & Steve Dobrogosz",
+        "title": "Fairytales",
+        "image": "images/016.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "017",
+        "artist": "Sohair Zaki & Nagwa Fouad",
+        "title": "Boss Boss - Ala Wahda We Nos",
+        "image": "images/017.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "018",
+        "artist": "Various",
+        "title": "Compilation 4",
+        "image": "images/018.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "019",
+        "artist": "Frank Zappa",
+        "title": "Unknown",
+        "image": "images/019.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "020",
+        "artist": "Yanni",
+        "title": "Reflections of Passion",
+        "image": "images/020.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "021",
+        "artist": "Dr. John",
+        "title": "Goin' Back to New Orleans",
+        "image": "images/021.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "022",
+        "artist": "Depeche Mode",
+        "title": "Music for the Masses",
+        "image": "images/022.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "023",
+        "artist": "Tom Waits",
+        "title": "Anthology of Tom Waits",
+        "image": "images/023.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "024",
+        "artist": "Bob Marley & The Wailers",
+        "title": "Unknown",
+        "image": "images/024.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "025",
+        "artist": "Αρλετα",
+        "title": "Αρλετα (?)",
+        "image": "images/025.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "026",
+        "artist": "Various",
+        "title": "Ta harpa di stem strenganje",
+        "image": "images/026.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "027",
+        "artist": "Ravi Shankar",
+        "title": "Sitar",
+        "image": "images/027.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "028",
+        "artist": "Ramazan Ceyhanli",
+        "title": "Server",
+        "image": "images/028.webp",
+        "youtube": "",
+        "spotify": ""
+    },
+    {
+        "number": "029",
+        "artist": "Vangelis / Pink Floyd",
+        "title": "Compilation",
+        "image": "images/029.webp",
+        "youtube": "",
+        "spotify": ""
+    }
+]
