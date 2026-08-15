@@ -3,23 +3,38 @@
 // ==============================
 
 let albums = [];
+let nextAlbum = null;
+let currentAlbum = null;
+
+function prepareNextAlbum() {
+
+    if (albums.length === 0) return;
+
+    let randomIndex;
+
+    do {
+        randomIndex = Math.floor(Math.random() * albums.length);
+    } while (
+        albums.length > 1 &&
+        albums[randomIndex] === currentAlbum
+    );
+
+    nextAlbum = albums[randomIndex];
+
+    const image = new Image();
+    image.src = nextAlbum.image;
+}
 
 fetch("albums.json")
-
     .then(response => response.json())
-
     .then(data => {
-
         albums = data;
 
+        prepareNextAlbum();
     })
-
     .catch(error => {
-
         console.error("Error loading albums:", error);
-
     });
-
 
 // ==============================
 // ELEMENTS
@@ -46,8 +61,10 @@ const spotifyLink = document.getElementById("spotify-link");
 
 function showRandomAlbum() {
 
-    const randomIndex = Math.floor(Math.random() * albums.length);
-    const album = albums[randomIndex];
+    if (!nextAlbum) return;
+
+    const album = nextAlbum;
+    currentAlbum = album;
 
     albumNumber.textContent = album.number;
     albumPhoto.src = album.image;
@@ -69,6 +86,7 @@ function showHome() {
 
     homeScreen.classList.remove("hidden");
 
+    prepareNextAlbum();
 }
 
 // ==============================
