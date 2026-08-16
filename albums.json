@@ -1065,7 +1065,7 @@
     },
     {
         "number": "134",
-        "artist": "Petere Gabriel",
+        "artist": "Peter Gabriel",
         "title": "Compilation",
         "image": "images/134.webp",
         "youtube": "",
@@ -1190,5 +1190,165 @@
         "image": "images/149.webp",
         "youtube": "",
         "spotify": "https://open.spotify.com/playlist/34Tjj71wcz6JNXQ0HjsKQx"
+    },
+    {
+        "number": "150",
+        "artist": "Various",
+        "title": "ΤΡΑΓΟΥΔΙΑ J. HENDRIX ΑΠΟ ΑΛΛΟΥΣ (?)",
+        "image": "images/150.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/1x1XOrZEMS9IqZzBD6GCHp"
+    },
+    {
+        "number": "151",
+        "artist": "Iggy Pop & Goran Bregovic / The Cranberries",
+        "title": "Arizona Dream BSO / No Need to Argue (frag.)",
+        "image": "images/151.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/29PCv19yw21R2t0355htH0"
+    },
+    {
+        "number": "152",
+        "artist": "Frank Boeijen Groep / The Nits / Golden Earring",
+        "title": "Compilation",
+        "image": "images/152.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/0fGpYgwRjtMP8hPNOlQmoR"
+    },
+    {
+        "number": "153",
+        "artist": "Chuck Berry",
+        "title": "Sweet Little Rock 'n' Roller Vol. 1",
+        "image": "images/153.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/6YddU13Uu8IKswK4TmG0Pz"
+    },
+    {
+        "number": "154",
+        "artist": "Värttinä / Sielun Veljet",
+        "title": "Unknown",
+        "image": "images/154.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/1SZIlNiNunpa38EvPjsxIJ"
+    },
+    {
+        "number": "155",
+        "artist": "Bülent Ersoy",
+        "title": "Ablan Kurban Olsun Sana",
+        "image": "images/155.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/6R9QkSvDM1pDIctYIKgGEz"
+    },
+    {
+        "number": "156",
+        "artist": "Aaron Neville / Lloyd Cole",
+        "title": "Warm your Heart / Don't Get Weird on Me Babe",
+        "image": "images/156.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/2v0BmrxtM7df9b5WRe8StI"
+    },
+    {
+        "number": "157",
+        "artist": "Zeki Müren",
+        "title": "Unknown",
+        "image": "images/157.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/7Ksut7t4MNKdfTdRdr9dVa"
+    },
+    {
+        "number": "158",
+        "artist": "Zeki Müren",
+        "title": "Beklenen Şarkı'lar",
+        "image": "images/158.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/5d8Sr1G3aSNPXN58qYacEO"
+    },
+    {
+        "number": "159",
+        "artist": "Nada Soraya & Nadi Baraka",
+        "title": "Duet Dangdut Kasmaran Vol. 2",
+        "image": "images/159.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/5QeM0601VfhxRTn4zLFjLZ"
+    },
+    {
+        "number": "160",
+        "artist": "Youssou N'Dour",
+        "title": "Immigrés / Bitim Rew",
+        "image": "images/160.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/6qNGl0aEuV4CVTRAMJXWGV"
+    },
+    {
+        "number": "161",
+        "artist": "Dvorak / London Philarmonic Orchestra",
+        "title": "New World Symphony",
+        "image": "images/161.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/5NdL4dlVWlVrSeW8GkmPMY"
+    },
+    {
+        "number": "162",
+        "artist": "Neil Young",
+        "title": "Harvest",
+        "image": "images/162.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/3t9irWdhwtlNZyPdD4TD99"
+    },
+    {
+        "number": "163",
+        "artist": "Aphrodite's Child / The Doors / Dire Straits",
+        "title": "Compilation",
+        "image": "images/163.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/6fpN3nxtSapR9esdL1Hajf"
+    },
+    {
+        "number": "164",
+        "artist": "Aphrodite's Child",
+        "title": "666",
+        "image": "images/164.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/2iTl6LJBWw9qBkLH6f6liz"
+    },
+    {
+        "number": "165",
+        "artist": "Mahavishnu Orchestra",
+        "title": "Apocalypse",
+        "image": "images/165.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/7xQBYtxIuxcANevmRzAFH1"
+    },
+    {
+        "number": "166",
+        "artist": "Klaus Nomi",
+        "title": "Encore",
+        "image": "images/166.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/7Em236ibRdoS4RHc6xZkh8"
+    },
+    {
+        "number": "167",
+        "artist": "Spanish Folk",
+        "title": "Part. Unknown",
+        "image": "images/167.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/1cZQupgoPECbe9mEP6V95T"
+    },
+    {
+        "number": "168",
+        "artist": "Timna Brauer & Elias Meiri",
+        "title": "Unknown",
+        "image": "images/168.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/1xmAce4xFC5K3B8DICWpMo"
+    },
+    {
+        "number": "169",
+        "artist": "Muazzez Ersoy",
+        "title": "Sensizlik Bu",
+        "image": "images/169.webp",
+        "youtube": "",
+        "spotify": "https://open.spotify.com/playlist/0UP7I1FR7gAbxtHgOrdtH4"
     }
 ]
