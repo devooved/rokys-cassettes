@@ -383,3 +383,103 @@ button {
         margin-top: 18px;
     }
 }
+
+ /* ==============================
+    CONTACT
+    ============================== */
+
+.contact-screen {
+    align-items: center;
+    overflow-y: auto;
+}
+
+.contact-content {
+    width: min(620px, 100%);
+    margin: 18vh auto 40px;
+}
+
+.contact-form {
+    width: 100%;
+}
+
+.contact-field {
+    margin-bottom: 28px;
+}
+
+.contact-field label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.contact-field input,
+.contact-field textarea {
+    display: block;
+    width: 100%;
+
+    border: 1px solid var(--border);
+    border-radius: 0;
+
+    background: transparent;
+    color: var(--text);
+
+    padding: 10px;
+
+    font-family: 'Cutive Mono', 'Courier New', monospace;
+    font-size: 16px;
+
+    outline: none;
+}
+
+.contact-field textarea {
+    resize: vertical;
+    min-height: 160px;
+}
+
+.contact-field input:focus,
+.contact-field textarea:focus {
+    outline: 1px solid var(--text);
+    outline-offset: 2px;
+}
+
+.contact-send {
+    display: inline-block;
+
+    border: 1px solid var(--border);
+    padding: 14px 28px;
+
+    cursor: pointer;
+
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 16px;
+
+    transition: background 180ms ease, color 180ms ease;
+}
+
+.contact-send:hover {
+    background: var(--text);
+    color: var(--background);
+}
+
+
+@media (max-width: 600px) {
+
+    .contact-content {
+        width: 100%;
+        margin-top: 10vh;
+    }
+
+    .contact-field {
+        margin-bottom: 22px;
+    }
+
+    .contact-field input,
+    .contact-field textarea {
+        font-size: 16px;
+    }
+
+    .contact-send {
+        width: 100%;
+    }
+
+}

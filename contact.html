@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="description"
+        content="Contact Roky's Cassettes."
+    >
+
+    <title>roky's cassettes</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="screen contact-screen">
+
+        <div class="language">
+            <button id="contact-english-button" type="button">EN</button>
+            <button id="contact-greek-button" type="button">ΕΛ</button>
+        </div>
+
+        <button
+            id="contact-home-button"
+            class="home-button"
+            type="button"
+        >
+            ← HOME
+        </button>
+
+
+        <div class="contact-content">
+
+            <!-- ENGLISH -->
+
+            <div id="contact-english">
+
+                <form
+                    class="contact-form"
+                    action="https://api.web3forms.com/submit"
+                    method="POST"
+                >
+
+                    <input
+                        type="hidden"
+                        name="access_key"
+                        value="92ba8ef1-2abe-4100-85bd-3a5aa07c8446"
+                    >
+
+                    <input
+                        type="hidden"
+                        name="subject"
+                        value="New message from Roky's Cassettes"
+                    >
+
+                    <input
+                        type="hidden"
+                        name="from_name"
+                        value="Roky's Cassettes"
+                    >
+
+                    <div class="contact-field">
+                        <label for="name-en">Name</label>
+
+                        <input
+                            id="name-en"
+                            type="text"
+                            name="name"
+                            required
+                        >
+                    </div>
+
+                    <div class="contact-field">
+                        <label for="email-en">Email</label>
+
+                        <input
+                            id="email-en"
+                            type="email"
+                            name="email"
+                            required
+                        >
+                    </div>
+
+                    <div class="contact-field">
+                        <label for="message-en">Message</label>
+
+                        <textarea
+                            id="message-en"
+                            name="message"
+                            rows="7"
+                            required
+                        ></textarea>
+                    </div>
+
+                    <button
+                        class="contact-send"
+                        type="submit"
+                    >
+                        SEND
+                    </button>
+
+                </form>
+
+            </div>
+
+
+            <!-- GREEK -->
+
+            <div
+                id="contact-greek"
+                class="hidden"
+            >
+
+                <form
+                    class="contact-form"
+                    action="https://api.web3forms.com/submit"
+                    method="POST"
+                >
+
+                    <input
+                        type="hidden"
+                        name="access_key"
+                        value="92ba8ef1-2abe-4100-85bd-3a5aa07c8446"
+                    >
+
+                    <input
+                        type="hidden"
+                        name="subject"
+                        value="Νέο μήνυμα από το Roky's Cassettes"
+                    >
+
+                    <input
+                        type="hidden"
+                        name="from_name"
+                        value="Roky's Cassettes"
+                    >
+
+                    <div class="contact-field">
+                        <label for="name-el">Όνομα</label>
+
+                        <input
+                            id="name-el"
+                            type="text"
+                            name="name"
+                            required
+                        >
+                    </div>
+
+                    <div class="contact-field">
+                        <label for="email-el">Email</label>
+
+                        <input
+                            id="email-el"
+                            type="email"
+                            name="email"
+                            required
+                        >
+                    </div>
+
+                    <div class="contact-field">
+                        <label for="message-el">Μήνυμα</label>
+
+                        <textarea
+                            id="message-el"
+                            name="message"
+                            rows="7"
+                            required
+                        ></textarea>
+                    </div>
+
+                    <button
+                        class="contact-send"
+                        type="submit"
+                    >
+                        ΑΠΟΣΤΟΛΗ
+                    </button>
+
+                </form>
+
+            </div>
+
+        </div>
+
+    </main>
+
+
+    <script>
+
+        const englishButton = document.getElementById(
+            "contact-english-button"
+        );
+
+        const greekButton = document.getElementById(
+            "contact-greek-button"
+        );
+
+        const englishContent = document.getElementById(
+            "contact-english"
+        );
+
+        const greekContent = document.getElementById(
+            "contact-greek"
+        );
+
+        const homeButton = document.getElementById(
+            "contact-home-button"
+        );
+
+
+        englishButton.addEventListener("click", () => {
+
+            englishContent.classList.remove("hidden");
+            greekContent.classList.add("hidden");
+
+        });
+
+
+        greekButton.addEventListener("click", () => {
+
+            greekContent.classList.remove("hidden");
+            englishContent.classList.add("hidden");
+
+        });
+
+
+        homeButton.addEventListener("click", () => {
+
+            window.location.href = "index.html";
+
+        });
+
+    </script>
+
+</body>
+
+</html>
