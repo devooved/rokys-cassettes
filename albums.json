@@ -73,8 +73,8 @@
     },
     {
         "number": "010",
-        "artist": "Albert Hammond?",
-        "title": "The Free Electric Band?",
+        "artist": "Chick Corea Elektric Band",
+        "title": "The Chick Corea Elektric Band",
         "image": "images/010.webp",
         "youtube": "https://www.youtube.com/playlist?list=PLYF7Ikl7zKPI",
         "spotify": "https://open.spotify.com/playlist/4ovZZu3Y6LVkuCQOX80W3a"
@@ -338,7 +338,7 @@
     {
         "number": "043",
         "artist": "Στράτος Παγιουμτζής",
-        "title": "Ραδιόφωνο (?)",
+        "title": "Ραδιόφωνο (Unknown)",
         "image": "images/043.webp",
         "youtube": "",
         "spotify": "https://open.spotify.com/playlist/1mvBOqQc63m8rj2xPV2qj3"
@@ -617,8 +617,8 @@
     },
     {
         "number": "078",
-        "artist": "Μαρία Δημητριάδη & Αφροδίτη Μάνου (+?)",
-        "title": "Τα Αντάρτικα (+?)",
+        "artist": "Μαρία Δημητριάδη & Αφροδίτη Μάνου / Θωμάς Μπακαλάκος",
+        "title": "Τα Αντάρτικα / Πορεία Στη Νύχτα (YT)",
         "image": "images/078.webp",
         "youtube": "",
         "spotify": "https://open.spotify.com/playlist/08Ylfuyd2uM5mdqvXchH56"
@@ -722,7 +722,7 @@
     {
         "number": "091",
         "artist": "Roberto Carlos",
-        "title": "Roberto Carlos (in English)",
+        "title": "Roberto Carlos (in English) (YT)",
         "image": "images/091.webp",
         "youtube": "",
         "spotify": "https://open.spotify.com/playlist/1UidYg4SwNTMq2Smb815az"
@@ -1154,7 +1154,7 @@
     {
         "number": "145",
         "artist": "Mohamed Abdel Wahab",
-        "title": "Sahra Mutawala Ma'al Musiqar",
+        "title": "Sahra Mutawala Ma'al Musiqar (YT)",
         "image": "images/145.webp",
         "youtube": "",
         "spotify": "https://open.spotify.com/playlist/5PU3WtmBtj2NVzPM8ueFpr"
@@ -1266,7 +1266,7 @@
     {
         "number": "159",
         "artist": "Nada Soraya & Nadi Baraka",
-        "title": "Duet Dangdut Kasmaran Vol. 2",
+        "title": "Duet Dangdut Kasmaran Vol. 2 (YT)",
         "image": "images/159.webp",
         "youtube": "",
         "spotify": "https://open.spotify.com/playlist/5QeM0601VfhxRTn4zLFjLZ"
