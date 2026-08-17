@@ -322,15 +322,11 @@ button {
 
     .home-text {
         margin-bottom: 38px;
-        line-height: 1.7;
+        line-height: 1.3;
     }
 
     .home-text span + span {
         margin-top: 14px;
-    }
-
-    .home-text span:last-child {
-        display: none;
     }
 
     .about-home-button {
