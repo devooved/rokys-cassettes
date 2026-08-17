@@ -51,19 +51,22 @@ const homeButton = document.getElementById("home-button");
 const aboutButton = document.getElementById("about-button");
 const aboutHomeButton = document.getElementById("about-home-button");
 
-const contactLinkEn = document.getElementById("contact-link-en");
-const contactLinkEl = document.getElementById("contact-link-el");
-
 const englishButton = document.getElementById("english-button");
 const greekButton = document.getElementById("greek-button");
 
-const aboutEnglishButton = document.getElementById("about-english-button");
-const aboutGreekButton = document.getElementById("about-greek-button");
+const aboutEnglishButton =
+    document.getElementById("about-english-button");
+
+const aboutGreekButton =
+    document.getElementById("about-greek-button");
 
 const homeText = document.getElementById("home-text");
 
-const aboutEnglishText = document.getElementById("about-english-text");
-const aboutGreekText = document.getElementById("about-greek-text");
+const aboutEnglishText =
+    document.getElementById("about-english-text");
+
+const aboutGreekText =
+    document.getElementById("about-greek-text");
 
 const albumNumber = document.getElementById("album-number");
 const albumPhoto = document.getElementById("album-photo");
@@ -83,7 +86,7 @@ let currentLanguage = "en";
 function setLanguage(language) {
 
     currentLanguage = language;
-
+    localStorage.setItem("language", language);
     if (language === "en") {
 
         document.documentElement.lang = "en";
@@ -96,6 +99,9 @@ function setLanguage(language) {
 
         discoverButton.textContent =
             "DISCOVER ROKY'S RECOMMENDATION";
+        
+        discoverButton.style.fontFamily =
+            "'Special Elite', 'Courier New', monospace";
 
         aboutEnglishText.classList.remove("hidden");
         aboutGreekText.classList.add("hidden");
@@ -117,7 +123,10 @@ function setLanguage(language) {
         `;
 
         discoverButton.textContent =
-            "ΑΝΑΚΑΛΥΨΕ ΤΗΝ ΠΡΟΤΑΣΗ ΤΟΥ ROKY";
+            "ΑΝΑΚΑΛΥΨΕ ΤΗΝ ΠΡΟΤΑΣΗ ΤΟΥ ΡΟΚΥ";
+
+        discoverButton.style.fontFamily =
+            "'Cutive Mono', 'Courier New', monospace";
 
         aboutEnglishText.classList.add("hidden");
         aboutGreekText.classList.remove("hidden");
@@ -235,22 +244,6 @@ aboutButton.addEventListener(
 aboutHomeButton.addEventListener(
     "click",
     showHome
-);
-
-contactLinkEn.addEventListener(
-    "click",
-    () => {
-        // Contact page will be added next.
-        console.log("Contact page coming next.");
-    }
-);
-
-contactLinkEl.addEventListener(
-    "click",
-    () => {
-        // Contact page will be added next.
-        console.log("Contact page coming next.");
-    }
 );
 
 englishButton.addEventListener(
