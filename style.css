@@ -351,8 +351,6 @@ button {
     .about-text {
         width: 100%;
         max-width: none;
-        padding-left: 100px;
-        padding-right: 100px;
         line-height: 1.7;
     }
 
