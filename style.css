@@ -349,6 +349,8 @@ button {
     }
 
     .about-text {
+        padding-left: 15px;
+        padding-right: 15px;
         width: 100%;
         max-width: none;
         line-height: 1.7;
