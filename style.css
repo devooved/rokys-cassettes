@@ -316,12 +316,12 @@ button {
     }
 
     .home-title {
-        margin-bottom: 38px;
+        margin-bottom: 28px;
         font-size: clamp(24px, 8vw, 34px);
     }
 
     .home-text {
-        margin-bottom: 38px;
+        margin-bottom: 28px;
         line-height: 1.3;
     }
 
