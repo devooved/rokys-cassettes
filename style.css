@@ -349,7 +349,9 @@ button {
 
     .about-text {
         line-height: 1.7;
-    }
+        padding-left: 20px;
+        padding-right: 20px;
+        }
 
     .about-text p {
         margin-bottom: 22px;
