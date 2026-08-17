@@ -349,10 +349,10 @@ button {
     }
 
     .about-text {
+        width: calc(100% - 30px);
         line-height: 1.7;
-        padding-left: 8px;
-        padding-right: 8px;
-        }
+
+}
 
     .about-text p {
         margin-bottom: 22px;
