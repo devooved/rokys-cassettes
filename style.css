@@ -48,7 +48,6 @@ button {
     justify-content: flex-start;
     align-items: center;
     text-align: center;
-
 }
 
 .home-content {
@@ -72,15 +71,11 @@ button {
 }
 
 .home-text span {
-
     display: block;
-
 }
 
 .home-text span + span {
-
     margin-top: 24px;
-
 }
 
 .language {
@@ -88,16 +83,6 @@ button {
     top: 24px;
     right: 24px;
     z-index: 10;
-    font-size: 13px;
-}
-
-.home-button {
-    position: absolute;
-    top: 24px;
-    left: 24px;
-    z-index: 10;
-    cursor: pointer;
-    font-family: 'Special Elite', 'Courier New', monospace;
     font-size: 13px;
 }
 
@@ -110,6 +95,43 @@ button {
 
 .language button + button {
     margin-left: 10px;
+}
+
+.about-button {
+    position: absolute;
+    top: 24px;
+    left: 24px;
+    z-index: 10;
+
+    width: 18px;
+    height: 18px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 1px solid var(--text);
+    border-radius: 50%;
+
+    background: transparent;
+    color: var(--text);
+
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 12px;
+    line-height: 22px;
+
+    padding: 0;
+    cursor: pointer;
+}
+
+.about-button:hover {
+    background: transparent;
+    color: var(--text);
+}
+
+.about-button span {
+    position: relative;
+    top: 2px;
 }
 
 .discover-button {
@@ -125,6 +147,71 @@ button {
     background: var(--text);
     color: var(--background);
 }
+
+
+/* ==============================
+   ABOUT
+   ============================== */
+
+.about-screen {
+    align-items: center;
+    overflow-y: auto;
+}
+
+.about-home-button {
+    position: absolute;
+    top: 24px;
+    left: 24px;
+    z-index: 10;
+
+    cursor: pointer;
+
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 13px;
+}
+
+.about-content {
+    width: min(680px, 100%);
+    margin: 12vh auto 40px;
+}
+
+.about-title {
+    margin: 0 0 48px;
+
+    text-align: center;
+
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: clamp(24px, 5vw, 42px);
+    font-weight: normal;
+    letter-spacing: 0.04em;
+}
+
+.about-text {
+    max-width: 620px;
+    margin: 0 auto;
+
+    font-size: clamp(15px, 2vw, 18px);
+    line-height: 1.8;
+}
+
+.about-text p {
+    margin: 0 0 28px;
+}
+
+.about-text p:last-child {
+    margin-bottom: 0;
+}
+
+.inline-link {
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+
+/* ==============================
+   ALBUM
+   ============================== */
 
 .album-screen {
     align-items: center;
@@ -189,9 +276,24 @@ button {
     text-underline-offset: 5px;
 }
 
+.home-button {
+    position: absolute;
+    top: 24px;
+    left: 24px;
+    z-index: 10;
+    cursor: pointer;
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 13px;
+}
+
 .hidden {
     display: none !important;
 }
+
+
+/* ==============================
+   MOBILE
+   ============================== */
 
 @media (max-width: 600px) {
 
@@ -206,6 +308,11 @@ button {
     .language {
         top: 20px;
         right: 20px;
+    }
+
+    .about-button {
+        top: 20px;
+        left: 20px;
     }
 
     .home-title {
@@ -223,7 +330,29 @@ button {
     }
 
     .home-text span:last-child {
-    display: none;
+        display: none;
+    }
+
+    .about-home-button {
+        top: 20px;
+        left: 20px;
+    }
+
+    .about-content {
+        margin-top: 10vh;
+    }
+
+    .about-title {
+        margin-bottom: 38px;
+        font-size: clamp(24px, 8vw, 34px);
+    }
+
+    .about-text {
+        line-height: 1.7;
+    }
+
+    .about-text p {
+        margin-bottom: 22px;
     }
 
     .album-number {
